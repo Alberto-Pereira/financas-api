@@ -2,12 +2,7 @@ package com.albertopereira.financas.service;
 
 import java.util.Optional;
 
-import javax.xml.xpath.XPathEvaluationResult.XPathResultType;
-
-import org.aspectj.lang.annotation.Before;
 import org.assertj.core.api.Assertions;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mockito;
