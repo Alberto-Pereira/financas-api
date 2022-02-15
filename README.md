@@ -4,7 +4,6 @@
 
 - [Sobre](#about)
 - [Estrutura](#pattern)
-- [Acessar](#link)
 
 ## 💻 Sobre <a name="about"></a>
 
